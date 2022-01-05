@@ -1,3 +1,8 @@
 p {
     color: #807777
 }
+
+p.ca-cap {
+    font-size: 2rem;
+    color:black;
+}
